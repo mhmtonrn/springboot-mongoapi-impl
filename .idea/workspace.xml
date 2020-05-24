@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="841aa059-7e10-4530-87b5-237e7f9d9e57" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cKFAoTD136cpJrIsMlZ7JXtRkq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="tr.com.havelsan.demo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/tr/com/havelsan/demo/model" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean package install" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.GenericDeleteTest">
+    <configuration name="GenericDeleteTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-mongoapi-impl" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GenericDeleteTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springboot-mongoapi-impl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tr.com.havelsan.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="tr.com.havelsan.demo.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GenericDeleteTest" />
+        <item itemvalue="Spring Boot.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="841aa059-7e10-4530-87b5-237e7f9d9e57" name="Default Changelist" comment="" />
+      <created>1590269236517</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590269236517</updated>
+      <workItem from="1590269239477" duration="2427000" />
+      <workItem from="1590271961575" duration="4630000" />
+      <workItem from="1590316517255" duration="1865000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="772" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1590272596842">
+      <screen x="58" y="27" width="1862" height="1053" />
+    </state>
+    <state x="772" y="311" width="424" height="491" key="FileChooserDialogImpl/58.27.1862.1053@58.27.1862.1053" timestamp="1590272596842" />
+    <state width="1816" height="275" key="GridCell.Tab.0.bottom" timestamp="1590276592481">
+      <screen x="58" y="27" width="1862" height="1053" />
+    </state>
+    <state width="1816" height="275" key="GridCell.Tab.0.bottom/58.27.1862.1053@58.27.1862.1053" timestamp="1590276592481" />
+    <state width="1816" height="275" key="GridCell.Tab.0.center" timestamp="1590276592481">
+      <screen x="58" y="27" width="1862" height="1053" />
+    </state>
+    <state width="1816" height="275" key="GridCell.Tab.0.center/58.27.1862.1053@58.27.1862.1053" timestamp="1590276592481" />
+    <state width="1816" height="275" key="GridCell.Tab.0.left" timestamp="1590276592481">
+      <screen x="58" y="27" width="1862" height="1053" />
+    </state>
+    <state width="1816" height="275" key="GridCell.Tab.0.left/58.27.1862.1053@58.27.1862.1053" timestamp="1590276592481" />
+    <state width="1816" height="275" key="GridCell.Tab.0.right" timestamp="1590276592481">
+      <screen x="58" y="27" width="1862" height="1053" />
+    </state>
+    <state width="1816" height="275" key="GridCell.Tab.0.right/58.27.1862.1053@58.27.1862.1053" timestamp="1590276592481" />
+    <state width="1816" height="275" key="GridCell.Tab.1.bottom" timestamp="1590271925460">
+      <screen x="58" y="27" width="1862" height="1053" />
+    </state>
+    <state width="1816" height="275" key="GridCell.Tab.1.bottom/58.27.1862.1053@58.27.1862.1053" timestamp="1590271925460" />
+    <state width="1816" height="275" key="GridCell.Tab.1.center" timestamp="1590271925459">
+      <screen x="58" y="27" width="1862" height="1053" />
+    </state>
+    <state width="1816" height="275" key="GridCell.Tab.1.center/58.27.1862.1053@58.27.1862.1053" timestamp="1590271925459" />
+    <state width="1816" height="275" key="GridCell.Tab.1.left" timestamp="1590271925459">
+      <screen x="58" y="27" width="1862" height="1053" />
+    </state>
+    <state width="1816" height="275" key="GridCell.Tab.1.left/58.27.1862.1053@58.27.1862.1053" timestamp="1590271925459" />
+    <state width="1816" height="275" key="GridCell.Tab.1.right" timestamp="1590271925459">
+      <screen x="58" y="27" width="1862" height="1053" />
+    </state>
+    <state width="1816" height="275" key="GridCell.Tab.1.right/58.27.1862.1053@58.27.1862.1053" timestamp="1590271925459" />
+    <state x="522" y="211" width="924" height="691" key="Maven.ArtifactSearchDialog" timestamp="1590275248326">
+      <screen x="58" y="27" width="1862" height="1053" />
+    </state>
+    <state x="522" y="211" width="924" height="691" key="Maven.ArtifactSearchDialog/58.27.1862.1053@58.27.1862.1053" timestamp="1590275248326" />
+    <state x="298" y="244" width="1372" height="625" key="new project wizard" timestamp="1590274407654">
+      <screen x="58" y="27" width="1862" height="1053" />
+    </state>
+    <state x="298" y="244" width="1372" height="625" key="new project wizard/58.27.1862.1053@58.27.1862.1053" timestamp="1590274407654" />
+    <state x="653" y="252" width="672" height="677" key="run.anything.popup" timestamp="1590273593037">
+      <screen x="58" y="27" width="1862" height="1053" />
+    </state>
+    <state x="653" y="252" width="672" height="677" key="run.anything.popup/58.27.1862.1053@58.27.1862.1053" timestamp="1590273593037" />
+  </component>
+</project>
